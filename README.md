@@ -10,3 +10,7 @@ With a C compiler such as `cc`, compile and run the program from the repository 
 cc main.c -o hello-world
 ./hello-world
 ```
+
+## Projects
+
+- **Hello World in C:** A small C program that prints `Hello World!` to the terminal.
